@@ -1,0 +1,9 @@
+data/*
+.idea/
+**/__pycache__
+.vscode/
+runs/
+diffusionner
+denoising-diffusion-pytorch
+checkpoint
+tools
