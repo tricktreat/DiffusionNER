@@ -1,6 +1,6 @@
 # DiffusionNER
 
-Code for [DiffusionNER: Boundary Diffusion for Named Entity Recognition](https://github.com/tricktreat/DiffusionNER). We will have all the code ready soon.
+Code for [DiffusionNER: Boundary Diffusion for Named Entity Recognition](https://arxiv.org/abs/2305.13298). We will have all the code ready soon.
 
 <p align="center"><img src="./assets/overview.jpg"></p>
 
