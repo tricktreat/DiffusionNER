@@ -1,9 +1,9 @@
-data/*
 .idea/
 **/__pycache__
 .vscode/
 runs/
+configs/analysis
 diffusionner
-denoising-diffusion-pytorch
 checkpoint
 tools
+data

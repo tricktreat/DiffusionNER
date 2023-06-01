@@ -1,0 +1,9 @@
+torch
+transformers==4.20.1
+tqdm==4.54.0
+Jinja2==3.0.1
+scikit-learn==0.23.2
+numpy==1.19.2
+scipy==1.5.4
+pynvml==8.0.4
+tensorboard==2.13.0
