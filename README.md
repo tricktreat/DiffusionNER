@@ -1,6 +1,6 @@
 # DiffusionNER
 
-Code for [DiffusionNER: Boundary Diffusion for Named Entity Recognition](https://arxiv.org/abs/2305.13298).
+Code for [DiffusionNER: Boundary Diffusion for Named Entity Recognition](https://arxiv.org/abs/2305.13298), Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang, ACL 2023.
 
 <p align="center"><img src="./assets/overview.jpg"></p>
 
