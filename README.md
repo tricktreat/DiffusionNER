@@ -42,7 +42,7 @@ Take the ACE2004 dataset as a demo and run:
 CUBLAS_WORKSPACE_CONFIG=:4096:8 python diffusionner.py train --config configs/ace2004.conf
 ```
 
-We also provide the pre-trained checkpoints in these links: [ACE2004](#), [GENIA](#), [CoNLL03](#), [MSRA](#). Please download them and put them into the `data/checkpoints` folder.
+We also provide the pre-trained checkpoints in these links: [ACE2004](https://pan.baidu.com/s/1OpXFOgkhyuD57EXjNrSI_Q?pwd=7869), [GENIA](https://pan.baidu.com/s/1OpXFOgkhyuD57EXjNrSI_Q?pwd=7869), [CoNLL03](https://pan.baidu.com/s/1OpXFOgkhyuD57EXjNrSI_Q?pwd=7869), [MSRA](https://pan.baidu.com/s/1OpXFOgkhyuD57EXjNrSI_Q?pwd=7869). Please download them and put them into the `data/checkpoints` folder.
 
 ### Evaluating
 
